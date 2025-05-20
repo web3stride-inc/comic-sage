@@ -2,7 +2,7 @@
 
 ComicSage is an educational platform that transforms complex topics into engaging, easy-to-understand comics. Perfect for visual learners and students of all ages.
 
-![ComicSage Logo](public/images/logo.png)
+![ComicSage Logo](public/logo.png)
 
 ## Overview
 
